@@ -1,0 +1,7 @@
+{
+    "name": "root/orcamento",
+    "type": "codeigniter",
+    "require": {
+        "bcit-ci/codeigniter": "^3.1"
+    }
+}
